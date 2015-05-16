@@ -1,0 +1,15 @@
+ {
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.heiz.aurora_arty",
+	"category": ["units","balance"],
+    "display_name" : "Aurora-Artillery",
+    "description" : "New Rapidfire Artillery Units",
+	"date" : "2015/05/16",
+    "forum": "",
+	"dependencies": [ "com.heiz.aurora_artyUI"],
+	"icon" : "",
+    "author" : "Heizmeister",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
