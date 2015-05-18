@@ -104,6 +104,7 @@ $(document).ready(function () {
             'metal_spot_preview',
 			'artillery_comet',
             'artillery_morningstar',
+			'tank_heavy_meteor',
             'unit_cannon'
         ]);
 

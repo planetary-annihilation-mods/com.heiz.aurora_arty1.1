@@ -5,11 +5,10 @@
 	"category": ["units","balance"],
     "display_name" : "Aurora-Artillery",
     "description" : "New Rapidfire Artillery Units",
-	"date" : "2015/05/16",
-    "forum": "",
+	"date" : "2015/05/18",
+    "forum": "https://forums.uberent.com/threads/rel-aurora-artillery.68799/",
 	"dependencies": [ "com.heiz.aurora_artyUI"],
-	"icon" : "",
     "author" : "Heizmeister",
-    "version" : "1.1",
+    "version" : "1.2",
     "signature" : "(not yet implemented)"
 }
