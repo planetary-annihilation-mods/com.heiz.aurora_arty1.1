@@ -13,6 +13,8 @@ $(document).ready(function () {
             'control_point_01',
             'artillery_short',
             'artillery_long',
+			'artillery_comet',
+            'artillery_morningstar',
             'land_barrier',
             'commander',
             'metal_extractor',     
@@ -61,6 +63,7 @@ $(document).ready(function () {
             'tank_laser_adv',
             'tank_light_laser',
             'tank_heavy_mortar',
+			'tank_heavy_meteor',
             'fabrication_vehicle_adv',
             'fabrication_vehicle',
             'aa_missile_vehicle',
@@ -102,9 +105,6 @@ $(document).ready(function () {
             'control_module',
             'mining_platform',
             'metal_spot_preview',
-			'artillery_comet',
-            'artillery_morningstar',
-			'tank_heavy_meteor',
             'unit_cannon'
         ]);
 
