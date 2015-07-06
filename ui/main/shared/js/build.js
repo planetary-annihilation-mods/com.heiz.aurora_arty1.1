@@ -60,12 +60,13 @@ function BuildHotkeyModel() {
             "/pa/units/land/assault_bot_adv/assault_bot_adv.json": ["bot", 6],
             "/pa/units/land/bot_sniper/bot_sniper.json": ["bot", 7],
             "/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json": ["bot", 8],
-            "/pa/units/land/bot_bomb/bot_bomb.json": ["bot", 14],
             "/pa/units/land/fabrication_bot/fabrication_bot.json": ["bot", 10],     
             "/pa/units/land/assault_bot/assault_bot.json": ["bot", 11],
+			"/pa/units/land/bot_bomb/bot_bomb.json": ["bot", 14],
             "/pa/units/land/bot_grenadier/bot_grenadier.json": ["bot", 12],
             "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json": ["bot", 13],
             "/pa/units/land/bot_tactical_missile/bot_tactical_missile.json": ["bot", 9],
+			"/pa/units/land/bot_sun/bot_sun.json": ["bot", 4],
      
             
             "/pa/units/orbital/orbital_laser/orbital_laser.json": ["orbital", 6],
@@ -78,6 +79,7 @@ function BuildHotkeyModel() {
             "/pa/units/orbital/orbital_lander/orbital_lander.json": ["orbital", 13],
             "/pa/units/orbital/orbital_factory/orbital_factory.json": ["orbital", 9],
             "/pa/units/orbital/mining_platform/mining_platform.json": ["orbital", 8],
+			"/pa/units/orbital/orbital_armageddon/orbital_armageddon.json": ["orbital", 4],
                       
             "/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv.json": ["air", 5],
             "/pa/units/air/fighter_adv/fighter_adv.json": ["air", 6],
