@@ -9,7 +9,7 @@
     "forum": "https://forums.uberent.com/threads/rel-aurora-artillery.68799/",
 	"dependencies": [ "com.heiz.aurora_artyUI"],
     "author" : "Heizmeister",
-    "version" : "1.5",
+    "version" : "1.6",
 	"priority": 100,
     "signature" : "(not yet implemented)"
 }
