@@ -2,14 +2,14 @@
     "enabled" : true,
     "context" : "server",
     "identifier" : "com.heiz.aurora_arty",
-	"category": ["units","balance","server"],
+	"category": ["units","balance","server","server-mod","in-game"],
     "display_name" : "Aurora-Artillery",
     "description" : "New Rapidfire Artillery Units. Please leave any feedback in the forum thread.",
-	"date" : "2015/07/08",
+	"date" : "2015/07/15",
     "forum": "https://forums.uberent.com/threads/rel-aurora-artillery.68799/",
 	"dependencies": [ "com.heiz.aurora_artyUI"],
     "author" : "Heizmeister",
-    "version" : "1.6",
+    "version" : "1.7",
 	"priority": 100,
     "signature" : "(not yet implemented)"
 }
