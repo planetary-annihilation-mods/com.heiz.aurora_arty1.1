@@ -2,14 +2,19 @@
     "enabled" : true,
     "context" : "server",
     "identifier" : "com.heiz.aurora_arty",
-	"category": ["units","balance","server","server-mod","in-game"],
+	"category": ["units","balance","server","server-mod","in-game","titans","artillery"],
     "display_name" : "Aurora-Artillery",
-    "description" : "New Rapidfire Artillery Units. Please leave any feedback in the forum thread.",
-	"date" : "2015/07/15",
+    "description" : "Adds new static and mobile rapid-fire artillery units. Now for PA:Titans.",
+	"date" : "2016/06/01",
     "forum": "https://forums.uberent.com/threads/rel-aurora-artillery.68799/",
-	"dependencies": [ "com.heiz.aurora_artyUI"],
+	"dependencies": [ "com.heiz.aurora_artyUI","com.wondible.pa.hodgepodge"],
     "author" : "Heizmeister",
-    "version" : "1.7",
-	"priority": 100,
-    "signature" : "(not yet implemented)"
+    "version" : "1.8",
+	"priority": 10,
+    "scenes": {
+    "global_mod_list": [
+      "coui://ui/mods/aurora_arty/global.js"
+    ]
+  },
+	"signature" : "(not yet implemented)"
 }
