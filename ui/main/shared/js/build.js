@@ -129,6 +129,7 @@ var Build = (function() {
                 "/pa/units/sea/drone_carrier/carrier/carrier.json": ["sea",0],
 
                 "/pa/units/sea/fabrication_ship_adv/fabrication_ship_adv.json": ["sea",6],
+				"/pa/units/sea/bolide/bolide.json": ["sea",5],
                 "/pa/units/sea/battleship/battleship.json": ["sea", 7],
                 "/pa/units/sea/missile_ship/missile_ship.json": ["sea", 8],
                 "/pa/units/sea/nuclear_sub/nuclear_sub.json": ["sea", 9],

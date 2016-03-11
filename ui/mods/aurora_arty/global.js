@@ -1,7 +1,7 @@
 if (HodgePodge) {
   HodgePodge.addUnits([{
-  spec_id: "/pa/units/land/artillery_comet/artillery_comet.json",
-  preferred_builds: [["combat", 1]],
+  spec_id: "/pa/units/land/artillery_morningstar/artillery_morningstar.json",
+  preferred_builds: [["combat", 5]],
   
   
   ]})

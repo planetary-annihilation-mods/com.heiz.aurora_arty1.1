@@ -54,6 +54,7 @@ $(document).ready(function () {
             'battleship',
             'destroyer',
             'frigate',
+			'bolide',
             'missile_ship',
             'fabrication_ship_adv',
             'fabrication_ship',
