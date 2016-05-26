@@ -80,9 +80,9 @@ var Build = (function() {
                 "/pa/units/land/fabrication_vehicle_adv/fabrication_vehicle_adv.json": ["vehicle", 6],
                 "/pa/units/land/tank_laser_adv/tank_laser_adv.json": ["vehicle", 7],
                 "/pa/units/land/tank_heavy_armor/tank_heavy_armor.json": ["vehicle", 8],
-                "/pa/units/land/tank_heavy_mortar/tank_heavy_mortar.json": ["vehicle", 2],
+                "/pa/units/land/tank_heavy_mortar/tank_heavy_mortar.json": ["vehicle", 9],
                 "/pa/units/land/tank_flak/tank_flak.json": ["vehicle", 10],
-                "/pa/units/land/tank_heavy_meteor/tank_heavy_meteor.json": ["vehicle", 9],	
+                "/pa/units/land/tank_heavy_meteor/tank_heavy_meteor.json": ["vehicle", 3],	
                 "/pa/units/land/fabrication_vehicle/fabrication_vehicle.json": ["vehicle", 12],
                 "/pa/units/land/tank_light_laser/tank_light_laser.json": ["vehicle", 13],
                 "/pa/units/land/tank_armor/tank_armor.json": ["vehicle", 14],
@@ -129,7 +129,7 @@ var Build = (function() {
                 "/pa/units/sea/drone_carrier/carrier/carrier.json": ["sea",0],
 
                 "/pa/units/sea/fabrication_ship_adv/fabrication_ship_adv.json": ["sea",6],
-				"/pa/units/sea/bolide/bolide.json": ["sea",5],
+				"/pa/units/sea/bolide/bolide.json": ["sea",11],
                 "/pa/units/sea/battleship/battleship.json": ["sea", 7],
                 "/pa/units/sea/missile_ship/missile_ship.json": ["sea", 8],
                 "/pa/units/sea/nuclear_sub/nuclear_sub.json": ["sea", 9],
@@ -155,7 +155,7 @@ var Build = (function() {
                 "/pa/units/orbital/orbital_laser/orbital_laser.json": ["orbital", 7],
                 "/pa/units/orbital/radar_satellite_adv/radar_satellite_adv.json": ["orbital", 8],
                 "/pa/units/orbital/orbital_railgun/orbital_railgun.json": ["orbital", 9],
-				"/pa/units/orbital/orbital_armageddon/orbital_armageddon.json": ["orbital", 4],				
+				"/pa/units/orbital/orbital_armageddon/orbital_armageddon.json": ["orbital", 1],				
                 
 
                 "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot.json": ["orbital", 12],
