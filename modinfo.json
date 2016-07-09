@@ -8,7 +8,7 @@
 	"date" : "2016/06/02",
     "forum": "https://forums.uberent.com/threads/rel-server-units-aurora-artillery.71183/",
 	"icon": "http://fs5.directupload.net/images/160427/28nxspez.png",
-	"dependencies": [ "com.heiz.aurora_artyUI"],
+	"dependencies": [ "com.heiz.aurora_artyUI", "com.wondible.pa.hodgepodge"],
     "author" : "Heizmeister , Mirolog",
     "version" : "2.2",
 	"priority": 10,
