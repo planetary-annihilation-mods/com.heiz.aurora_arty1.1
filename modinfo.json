@@ -5,13 +5,13 @@
 	"category": ["units","balance","server","server-mod","in-game","titans","artillery"],
     "display_name" : "Aurora-Artillery",
     "description" : "Adds new static and mobile rapid-fire artillery units. Now for PA:Titans and with Galactic War support.",
-	"date" : "2017/09/01",
+	"date" : "2018/07/13",
     "forum": "https://forums.uberent.com/threads/rel-server-units-aurora-artillery.71183/",
 	"icon": "http://fs5.directupload.net/images/160427/28nxspez.png",
 	"dependencies": [ "com.heiz.aurora_artyUI", "com.wondible.pa.hodgepodge"],
     "author" : "Heizmeister , Mirolog",
-    "version" : "2.4",
-	"build": "105067",
+    "version" : "2.5",
+	"build": "110069",
 	"priority": 10,
 	"signature" : "(not yet implemented)"
 }
