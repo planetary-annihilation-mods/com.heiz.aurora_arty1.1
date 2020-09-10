@@ -10,7 +10,7 @@
 	"icon": "http://fs5.directupload.net/images/160427/28nxspez.png",
 	"dependencies": [ "com.heiz.aurora_artyUI", "com.wondible.pa.hodgepodge"],
     "author" : "Heizmeister , Mirolog",
-    "version" : "2.5",
+    "version" : "2.5.1",
 	"build": "110069",
 	"priority": 10,
 	"signature" : "(not yet implemented)"
