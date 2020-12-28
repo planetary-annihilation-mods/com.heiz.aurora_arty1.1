@@ -1,11 +1,13 @@
-var auroraLoaded;
-
-if (!auroraLoaded)
+try
 {
-    auroraLoaded = true;
+    var auroraLoaded; // global namespace
 
-    try
+    if (!auroraLoaded)
     {
+        auroraLoaded = true;
+
+        // no named function as simple code with no variables
+
         model.strategicIcons(model.strategicIcons().concat(
         [
             'artillery_comet',
@@ -16,9 +18,9 @@ if (!auroraLoaded)
             'tank_heavy_meteor',
         ]));
     }
-    catch (e)
-    {
-        console.error(e);
-        console.error(JSON.stringify(e));
-    }
+}
+catch (e)
+{
+    console.error(e);
+    console.error(JSON.stringify(e));
 }
