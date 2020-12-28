@@ -14,12 +14,13 @@
 	"build": "115186",
 	"priority": 90,
     "signature" : "(not yet implemented)",
-     "scenes": {
+    "github": "https://github.com/planetary-annihilation-mods/com.heiz.aurora_arty1.1",
+    "scenes": {
         "icon_atlas": [
             "coui://ui/mods/com.heiz.aurora_arty/icon_atlas.js"
         ],
         "shared_build": [
-          "coui://ui/mods/com.heiz.aurora_arty/shared_build.js"
+            "coui://ui/mods/com.heiz.aurora_arty/shared_build.js"
         ]
-      }
+    }
 }
