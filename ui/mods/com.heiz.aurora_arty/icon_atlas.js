@@ -8,11 +8,11 @@ if (!auroraLoaded)
     {
         model.strategicIcons(model.strategicIcons().concat(
         [
-			'artillery_comet',
-			'artillery_morningstar',
-			'bolide',
-			'bot_sun',
-			'orbital_armageddon',
+            'artillery_comet',
+            'artillery_morningstar',
+            'bolide',
+            'bot_sun',
+            'orbital_armageddon',
             'tank_heavy_meteor',
         ]));
     }
