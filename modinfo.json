@@ -4,7 +4,7 @@
     "identifier" : "com.heiz.aurora_arty",
 	"category": ["units","balance","server","server-mod","in-game","titans","artillery"],
     "display_name" : "Aurora-Artillery",
-    "description" : "Adds new static and mobile rapid-fire artillery units. Now for PA:Titans and with Galactic War support.",
+    "description" : "Adds new static and mobile rapid-fire artillery units",
 	"date" : "2020/12/28",
     "forum": "https://forums.planetaryannihilation.com/threads/rel-server-units-aurora-artillery.71183/",
 	"icon": "https://raw.githubusercontent.com/planetary-annihilation-mods/com.heiz.aurora_arty1.1/master/icon.png",
