@@ -52,7 +52,7 @@ try
             }
         }
 
-        auroraAddBuildBarItems()
+        auroraAddBuildBarItems();
     }
 }
 catch (e)
