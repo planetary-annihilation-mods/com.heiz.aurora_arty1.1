@@ -1,1 +1,21 @@
-{"base_spec":"/pa/ammo/base_artillery2/base_artillery2.json","damage":350,"splash_damage":200,"splash_radius":14,"full_damage_splash_radius":8,"initial_velocity":90.0,"max_velocity":400.0,"turn_rate":25.5,"lifetime":15.0,"max_health":1,"fx_trail":{"filename":"/pa/units/land/anti_nuke_launcher/anti_nuke_launcher_ammo_trail.pfx","offset":[0.0,1.0,0.0]},"audio_loop":"/SE/Movement/missile/tactical_missile_fly_loop"}
+{
+    "base_spec": "/pa/ammo/base_artillery2/base_artillery2.json",
+    "damage": 350,
+    "splash_damage": 200,
+    "splash_radius": 14,
+    "full_damage_splash_radius": 8,
+    "initial_velocity": 90.0,
+    "max_velocity": 400.0,
+    "turn_rate": 25.5,
+    "lifetime": 15.0,
+    "max_health": 1,
+    "fx_trail": {
+        "filename": "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher_ammo_trail.pfx",
+        "offset": [
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    "audio_loop": "/SE/Movement/missile/tactical_missile_fly_loop"
+}

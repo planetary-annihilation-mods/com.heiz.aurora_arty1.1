@@ -197,15 +197,15 @@
         "/pa/units/sea/drone_carrier/drone/drone.json",
         "/pa/units/sea/fabrication_barge/fabrication_barge.json",
         "/pa/units/sea/hover_ship/hover_ship.json",
+        "/pa/units/land/attack_vehicle/attack_vehicle.json",
+        "/pa/units/air/strafer/strafer.json",
+        "/pa/units/commanders/quad_pumpkin/quad_pumpkin.json",
+        "/pa/units/commanders/raptor_unicorn/raptor_unicorn.json",
         "/pa/units/land/artillery_comet/artillery_comet.json",
         "/pa/units/land/artillery_morningstar/artillery_morningstar.json",
         "/pa/units/land/tank_heavy_meteor/tank_heavy_meteor.json",
         "/pa/units/orbital/orbital_armageddon/orbital_armageddon.json",
         "/pa/units/land/bot_sun/bot_sun.json",
-        "/pa/units/sea/bolide/bolide.json",
-        "/pa/units/land/attack_vehicle/attack_vehicle.json",
-        "/pa/units/air/strafer/strafer.json",
-        "/pa/units/commanders/quad_pumpkin/quad_pumpkin.json",
-        "/pa/units/commanders/raptor_unicorn/raptor_unicorn.json"
+        "/pa/units/sea/bolide/bolide.json"
     ]
 }
